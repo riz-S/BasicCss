@@ -1,0 +1,33 @@
+body {
+  background-color: lightgreen;
+  font-family: Arial;
+}
+h1 {
+  text-align: center;
+}
+#foto {
+  width: 200px;
+  height: 300px;
+}
+#profil{
+  background-color: #c7efe5;
+  color: #0d76b3;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+table.organisasi, table.organisasi th, table.organisasi td,table.matkul, table.matkul th, table.matkul td{
+  border-top: 10px;
+  border: 2px black;
+  border-collapse: collapse;
+  border-style: double;
+  text-align: center;
+}
+.organisasi{
+  font-family: 'Franklin Gothic Medium', sans-serif;
+  background-color: #4a1d50;
+  color: #fabe46  ;
+}
+.matkul{
+  font-family: 'Times New Roman', Times, serif;
+  background-color: #03707a;
+  color: #f2eab4;
+}
